@@ -1,0 +1,1 @@
+{ "name": "token-dashboard", "version": "0.1.0", "description": "A live TUI pane showing this session's token usage, cost, context fill and rate limits", "types": "./types/index.d.ts" }
