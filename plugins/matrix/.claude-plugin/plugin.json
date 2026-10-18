@@ -1,0 +1,6 @@
+{
+  "name": "matrix",
+  "version": "0.1.0",
+  "description": "Jack Claude Code into the Matrix: digital rain above the prompt, phosphor-green transcript, and messages from Zion.",
+  "types": "./types/index.d.ts"
+}

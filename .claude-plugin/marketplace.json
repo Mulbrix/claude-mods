@@ -1,5 +1,8 @@
 {
   "name": "claude-mods",
   "owner": { "name": "mulbrix" },
-  "plugins": [{ "name": "token-dashboard", "source": "./" }]
+  "plugins": [
+    { "name": "token-dashboard", "source": "./plugins/token-dashboard" },
+    { "name": "matrix", "source": "./plugins/matrix" }
+  ]
 }
